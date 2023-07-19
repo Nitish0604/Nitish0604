@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **WEB ,MERN**
 
-- 📫 How to reach me **tanmay2809@outlook.com**
+- 📫 How to reach me **iamnitishsah@gmail.com **
 
 - ⚡ Fun fact **I introvert**
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish0604&show_icons=true&locale=en" alt="tanmay2809" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2809&" alt="tanmay2809" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish0604&" alt="tanmay2809" /></p>
